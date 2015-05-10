@@ -1,0 +1,41 @@
+body {
+}
+
+.jumbotron {
+	padding: 48px 96px;
+}
+
+.jumbotron h1 {
+	font-family: 'Roboto';
+	font-style: italic;
+	letter-spacing: 1px;
+}
+
+.header {
+	height: 400px;
+	min-height: 400px;
+}
+
+.divider {
+	background-color: white;
+	text-align: center;
+}
+
+.color-jumbotron {
+	background-color: #EBE49A;
+	min-height: 550px;
+}
+
+.col-md-4 p {
+	padding: 10px;
+}
+
+.col-md-4 img {
+	display: block;
+	width: 70%;
+	margin: auto;
+}
+
+.slantytext {
+	font-style: italic;
+}
