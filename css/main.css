@@ -5,15 +5,14 @@ body {
 	padding: 48px 96px;
 }
 
-.jumbotron h1 {
+.navbar-brand {
 	font-family: 'Roboto';
 	font-style: italic;
 	letter-spacing: 1px;
 }
 
 .header {
-	height: 400px;
-	min-height: 400px;
+	text-align: center;
 }
 
 .divider {
@@ -23,7 +22,7 @@ body {
 
 .color-jumbotron {
 	background-color: #EBE49A;
-	min-height: 550px;
+	min-height: 600px;
 }
 
 .col-md-4 p {
