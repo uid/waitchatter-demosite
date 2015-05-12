@@ -1,6 +1,12 @@
 body {
 }
 
+#help-revert{
+	max-height: 300px;
+	padding: 15px;
+}
+
+
 .jumbotron {
 	padding: 48px 96px;
 }
@@ -9,6 +15,10 @@ body {
 	font-family: 'Roboto';
 	font-style: italic;
 	letter-spacing: 1px;
+}
+
+.navbar-default {
+	background-color: #acd8fb;
 }
 
 .header {
