@@ -6,7 +6,10 @@ body {
 	padding: 15px;
 }
 
-
+.installimg{
+	max-height: 300px;
+	max-width: 200px;
+}
 .jumbotron {
 	padding: 48px 96px;
 }
