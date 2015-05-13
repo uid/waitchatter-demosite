@@ -14,14 +14,24 @@ body {
 	padding: 48px 96px;
 }
 
-.navbar-brand {
+.navbar-default .navbar-brand {
 	font-family: 'Roboto';
 	font-style: italic;
 	letter-spacing: 1px;
+	padding-left: 50px;
+	color: white;
 }
 
+.navbar-default .navbar-nav>li>a {
+	color: white;
+	size: 2em;
+}
+
+.icon {
+	padding-top: 5px;
+}
 .navbar-default {
-	background-color: #acd8fb;
+	background-color: #2196f3;
 }
 
 .header {
@@ -48,6 +58,15 @@ body {
 	margin: auto;
 }
 
-.terminology{
+.terminology {
 	font-style: italic;
+}
+
+.help-question {
+	size: 1.5em;
+	font-style: italic;
+}
+
+.small-text {
+	size: 10px;
 }
