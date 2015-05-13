@@ -7,7 +7,7 @@ body {
 }
 
 .installimg{
-	max-height: 300px;
+	max-height: 200px;
 	max-width: 200px;
 }
 .jumbotron {
@@ -41,6 +41,10 @@ body {
 .divider {
 	background-color: white;
 	text-align: center;
+}
+
+.left-align {
+	text-align: left;
 }
 
 .color-jumbotron {
